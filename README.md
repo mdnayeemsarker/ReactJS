@@ -1,5 +1,7 @@
 # React + Vite
 
+This is an learning ReactJS with JavaScript. In this use JavaScript this is only basic setup intro to project. 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
