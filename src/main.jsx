@@ -6,6 +6,7 @@ import Hello from './components/Hello';
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Hello />
+    {/* <Hello /> */}
+    <Hello></Hello>
   </StrictMode>,
 )
